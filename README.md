@@ -34,7 +34,7 @@ git commit -m 'Next.js app on Heroku'
 git push heroku main
 
 Video Link:
-Running locally due to next.js errors with heroku:
+[Running](https://guarded-beach-34543.herokuapp.com/)
 
 
 
